@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Contact me here: [a](https://www.linkedin.com/in/choudhary2000/)
+- 💬 Contact me here: [![alt linkedin](./icons8-linkedin-circled.gif)](https://www.linkedin.com/in/choudhary2000/)
 
 <!-- Here are some ideas to get you started: -->
 
