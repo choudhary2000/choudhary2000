@@ -1,6 +1,7 @@
 ### Hi there 👋
+- 💬 Contact me here: [a](https://www.linkedin.com/in/choudhary2000/)
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 
 - 🔭 I’m currently working on ...
@@ -8,4 +9,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href=”https://www.linkedin.com/in/choudhary2000/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<!-- - 📫 How to reach me: <a href=”https://www.linkedin.com/in/choudhary2000/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a> -->
